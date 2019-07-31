@@ -1,0 +1,23 @@
+tsasassasassasasasasest
+sasas
+hsasasash
+
+<<<<<<< HEAD
+sdsdc
+
+sssa
+
+
+sasas
+=======
+asasas
+
+>>>>>>> feature/0.2
+
+0.2-
+sasas
+
+
+
+
+
