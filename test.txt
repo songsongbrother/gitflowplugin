@@ -2,9 +2,14 @@ test
 
 hh
 
+<<<<<<< HEAD
 sdsdc
 
 
 
 sasas
+=======
+asasas
+
+>>>>>>> feature/0.2
 
